@@ -1,0 +1,51 @@
+[2019-06-15 16:58:29] INFO [run: run.py, 63] ================================== ï¿½ï¿½ï¿½Ô¿ï¿½Ê¼ ==================================
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 10] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½test_user_login_normal
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 11] urlï¿½ï¿½http://115.28.108.130:5000/api/user/login/
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 12] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{"name": "ï¿½ï¿½ï¿½ï¿½","password":"123456"}
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 13] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<h1>ï¿½ï¿½Â¼ï¿½É¹ï¿½</h1>
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 14] Êµï¿½Ê½ï¿½ï¿½ï¿½ï¿½<h1>ï¿½ï¿½Â¼ï¿½É¹ï¿½</h1>
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 10] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½test_user_login_password_wrong
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 11] urlï¿½ï¿½http://115.28.108.130:5000/api/user/login/
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 12] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{"name": "ï¿½ï¿½ï¿½ï¿½","password":"1234567"}
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 13] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<h1>Ê§ï¿½Ü£ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</h1>
+[2019-06-15 16:58:29] INFO [log_case_info: case_log.py, 14] Êµï¿½Ê½ï¿½ï¿½ï¿½ï¿½<h1>Ê§ï¿½Ü£ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</h1>
+[2019-06-15 16:58:32] INFO [log_case_info: case_log.py, 10] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½test_user_reg_exist
+[2019-06-15 16:58:32] INFO [log_case_info: case_log.py, 11] urlï¿½ï¿½http://115.28.108.130:5000/api/user/reg/
+[2019-06-15 16:58:32] INFO [log_case_info: case_log.py, 12] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{"name": "ï¿½ï¿½ï¿½ï¿½","password":"123456"}
+[2019-06-15 16:58:32] INFO [log_case_info: case_log.py, 13] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{"code": "100001", "data": {"name": "\u5f20\u4e09", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "\u5931\u8d25\uff0c\u7528\u6237\u5df2\u5b58\u5728"}
+[2019-06-15 16:58:32] INFO [log_case_info: case_log.py, 14] Êµï¿½Ê½ï¿½ï¿½ï¿½ï¿½{"code": "100001", "data": {"name": "ï¿½ï¿½ï¿½ï¿½", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "Ê§ï¿½Ü£ï¿½ï¿½Ã»ï¿½ï¿½Ñ´ï¿½ï¿½ï¿½"}
+[2019-06-15 16:58:33] INFO [run: run.py, 73] ================================== ï¿½ï¿½ï¿½Ô½ï¿½ï¿½ï¿½ ==================================
+[2019-06-15 17:02:21] INFO [run: run.py, 63] ================================== ²âÊÔ¿ªÊ¼ ==================================
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 10] ²âÊÔÓÃÀı£ºtest_user_login_normal
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 11] url£ºhttp://115.28.108.130:5000/api/user/login/
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 12] ÇëÇó²ÎÊı£º{"name": "ÕÅÈı","password":"123456"}
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 13] ÆÚÍû½á¹û£º<h1>µÇÂ¼³É¹¦</h1>
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 14] Êµ¼Ê½á¹û£º<h1>µÇÂ¼³É¹¦</h1>
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 10] ²âÊÔÓÃÀı£ºtest_user_login_password_wrong
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 11] url£ºhttp://115.28.108.130:5000/api/user/login/
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 12] ÇëÇó²ÎÊı£º{"name": "ÕÅÈı","password":"1234567"}
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 13] ÆÚÍû½á¹û£º<h1>Ê§°Ü£¬ÓÃ»§Ãû»òÃÜÂë´íÎó</h1>
+[2019-06-15 17:02:22] INFO [log_case_info: case_log.py, 14] Êµ¼Ê½á¹û£º<h1>Ê§°Ü£¬ÓÃ»§Ãû»òÃÜÂë´íÎó</h1>
+[2019-06-15 17:02:23] INFO [log_case_info: case_log.py, 10] ²âÊÔÓÃÀı£ºtest_user_reg_exist
+[2019-06-15 17:02:23] INFO [log_case_info: case_log.py, 11] url£ºhttp://115.28.108.130:5000/api/user/reg/
+[2019-06-15 17:02:23] INFO [log_case_info: case_log.py, 12] ÇëÇó²ÎÊı£º{"name": "ÕÅÈı","password":"123456"}
+[2019-06-15 17:02:23] INFO [log_case_info: case_log.py, 13] ÆÚÍû½á¹û£º{"code": "100001", "data": {"name": "\u5f20\u4e09", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "\u5931\u8d25\uff0c\u7528\u6237\u5df2\u5b58\u5728"}
+[2019-06-15 17:02:23] INFO [log_case_info: case_log.py, 14] Êµ¼Ê½á¹û£º{"code": "100001", "data": {"name": "ÕÅÈı", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "Ê§°Ü£¬ÓÃ»§ÒÑ´æÔÚ"}
+[2019-06-15 17:02:23] INFO [run: run.py, 73] ================================== ²âÊÔ½áÊø ==================================
+[2019-06-15 17:20:58] INFO [run: run.py, 63] ================================== æµ‹è¯•å¼€å§‹ ==================================
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 10] æµ‹è¯•ç”¨ä¾‹ï¼štest_user_login_normal
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 11] urlï¼šhttp://115.28.108.130:5000/api/user/login/
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 12] è¯·æ±‚å‚æ•°ï¼š{"name": "å¼ ä¸‰","password":"123456"}
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 13] æœŸæœ›ç»“æœï¼š<h1>ç™»å½•æˆåŠŸ</h1>
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 14] å®é™…ç»“æœï¼š<h1>ç™»å½•æˆåŠŸ</h1>
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 10] æµ‹è¯•ç”¨ä¾‹ï¼štest_user_login_password_wrong
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 11] urlï¼šhttp://115.28.108.130:5000/api/user/login/
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 12] è¯·æ±‚å‚æ•°ï¼š{"name": "å¼ ä¸‰","password":"1234567"}
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 13] æœŸæœ›ç»“æœï¼š<h1>å¤±è´¥ï¼Œç”¨æˆ·åæˆ–å¯†ç é”™è¯¯</h1>
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 14] å®é™…ç»“æœï¼š<h1>å¤±è´¥ï¼Œç”¨æˆ·åæˆ–å¯†ç é”™è¯¯</h1>
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 10] æµ‹è¯•ç”¨ä¾‹ï¼štest_user_reg_exist
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 11] urlï¼šhttp://115.28.108.130:5000/api/user/reg/
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 12] è¯·æ±‚å‚æ•°ï¼š{"name": "å¼ ä¸‰","password":"123456"}
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 13] æœŸæœ›ç»“æœï¼š{"code": "100001", "data": {"name": "\u5f20\u4e09", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "\u5931\u8d25\uff0c\u7528\u6237\u5df2\u5b58\u5728"}
+[2019-06-15 17:20:59] INFO [log_case_info: case_log.py, 14] å®é™…ç»“æœï¼š{"code": "100001", "data": {"name": "å¼ ä¸‰", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "å¤±è´¥ï¼Œç”¨æˆ·å·²å­˜åœ¨"}
+[2019-06-15 17:21:00] INFO [run: run.py, 73] ================================== æµ‹è¯•ç»“æŸ ==================================

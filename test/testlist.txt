@@ -1,0 +1,2 @@
+test_user_login_normal
+test_user_reg_normal
